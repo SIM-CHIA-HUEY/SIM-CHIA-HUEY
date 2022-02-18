@@ -92,7 +92,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sim-chia-huey&show_icons=true&langs_count=5&bg_color=00000000&text_color=777" alt="sim-chia-huey" />&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=sim-chia-huey&show_icons=true&langs_count=5&bg_color=00000000&text_color=777" alt="sim-chia-huey" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sim-chia-huey&show_icons=true&langs_count=7&bg_color=00000000&text_color=777&layout=compact" alt="sim-chia-huey" />&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=sim-chia-huey&show_icons=true&langs_count=5&bg_color=00000000&text_color=777" alt="sim-chia-huey" />
 </p>
 
 <p>According to the MARCO psychometric test, I'm ...</p>
