@@ -8,10 +8,13 @@
         <details><summary> About me </summary> 
           <p>
           <hr />
-            For more than 8 years, I’ve been working as a multidisciplinary designer. And not long ago, I’ve been developing my programming skills. I am one of those creative folks who prefer to express their creativity within an effective framework. That's why I became a Designer <i>slash</i> Developer. 
-          <br>
-          <br>
-          My short term objective is to become a good Front-end Developer and UI Designer. And I'm always curious about any innovative or challenging programming, artistic or cultural projects and ideas.
+             I’m a multidisciplinary designer with 8+ years of professional experience, and since 2021, I’ve been building my expertise in full-stack development.
+            <br>
+            <br>
+            My background in design gives me a strong understanding of visual systems, user experience, and creative problem-solving — skills I bring into my work as a developer. I enjoy turning ideas into functional, thoughtful, and well-crafted digital experiences, which naturally led me to become a Designer <i>slash</i> Developer.
+            <br>
+            <br>
+            Today, I work across both design and development, with a particular interest in front-end and UI, while continuing to strengthen my full-stack expertise. I’m always curious about challenging technical problems, creative projects, and new technologies that give me an opportunity to learn, experiment, and build.
           </p>
         </details>
     </td>
@@ -20,7 +23,7 @@
         <details><summary> 📫 You can find me </summary> 
           <p>
             <hr />
-            ...in a hybrid space in Paris. Or you can contact me through www.linkedin.com/in/simchiahuey/
+            ...in a hybrid space in Paris, in a Lego store. Or you can contact me through www.linkedin.com/in/simchiahuey/
           </p>
         </details>
     </td>
@@ -90,9 +93,6 @@
 <hr />
 <br>
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sim-chia-huey&show_icons=true&langs_count=7&bg_color=00000000&text_color=777&layout=compact" alt="sim-chia-huey" />
-
 <p>According to the MARCO psychometric test, I'm ...</p>
 
 |Innovator|Organiser|Creator|
@@ -103,4 +103,4 @@
 |Multilingual|Fast-learner|
 |---|---|
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=sim-chia-huey&show_icons=true&langs_count=5&bg_color=00000000&text_color=777" alt="sim-chia-huey" />
+<img align="top" width="1000" alt="Confused Star Wars GIF by Xbox" src="https://github.com/user-attachments/assets/bca337ad-cc52-4f27-9925-45b955d857a8"/>
